@@ -38,12 +38,11 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/BCS (HONS)-Sunway College-1877F2?style=for-the-badge"></span>
  </details>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
   - **[Your Role] ** at [Company] | [Duration]
     - [Work Description]
  </details>

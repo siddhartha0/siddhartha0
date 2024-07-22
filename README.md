@@ -33,7 +33,7 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
   <summary><h2> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
 <div align="center">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+  ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
   </div>
 
   <div align="center">

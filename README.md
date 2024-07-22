@@ -58,3 +58,13 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
     ![](https://github-readme-activity-graph.vercel.app/graph?username=siddhartha0&theme=tokyo-night)
   </div>
 </details>
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:siddhartha.sunuwar@gmail.com">
+      <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>

@@ -28,25 +28,6 @@ Here are some ideas to get you started:
 
 I am a passionate MERN Stack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in react with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
-<details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BCS (HONS)-Sunway College-1877F2?style=for-the-badge"></span>
- </details>
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
- </details>
-</details>
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
@@ -60,6 +41,13 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+    <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:https://www.instagram.com/siddhartha_sunuwar0/">
+      <img align="center" src="https://iconduck.com/emojis/43728/instagram" width="100"/>
+    </a>
+  </p>
+  
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:siddhartha.sunuwar@gmail.com">

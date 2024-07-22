@@ -35,11 +35,16 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
 <div align="center">
   ![LeetCode Stats]https://github-readme-stats.vercel.app/api?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false]<br/>
   </div>
-    
-    
+
+  <div align="center">
     ![herokuapp](https://github-readme-streak-stats.herokuapp.com/?user=siddhartha0&theme=tokyonight&hide_border=false)<br/>
-    ![vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![vercel](https://github-readme-activity-graph.vercel.app/graph?username=siddhartha0&theme=tokyo-night)
+  </div>
+    <div align="center">
+![vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    </div>
+    <div align="center">
+      ![vercel](https://github-readme-activity-graph.vercel.app/graph?username=siddhartha0&theme=tokyo-night)
+    </div>
   </div>
 </details>
 

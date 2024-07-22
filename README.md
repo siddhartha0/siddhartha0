@@ -33,12 +33,16 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
   <summary><h2> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
 <div align="center">
+  
   ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
   </div>
 
+
   <div align="center">
-    ![github readme streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhartha0&theme=tokyonight&hide_border=false)<br/>
+
+  ![github readme streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhartha0&theme=tokyonight&hide_border=false)<br/>
   </div>
+  
     <div align="center">
 ![github readme stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
     </div>
@@ -68,8 +72,10 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
  ### Leetcode
   <div align="center">
 
-  ![leetcode stats](https://leetcode.card.workers.dev/siddhartha0?theme=auto&font=baloo&extension=null)
+   ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)   
+   ![github readme streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhartha0&theme=tokyonight&hide_border=false)
   ![github readme activity](https://github-readme-activity-graph.vercel.app/graph?username=siddhartha0&theme=tokyo-night)
+  ![github readme stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
   </div>
 

@@ -69,6 +69,7 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
   <div align="center">
 
   ![leetcode stats](https://leetcode.card.workers.dev/siddhartha0?theme=auto&font=baloo&extension=null)
+  ![github readme activity](https://github-readme-activity-graph.vercel.app/graph?username=siddhartha0&theme=tokyo-night)
 
   </div>
 

@@ -68,7 +68,7 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
  ### Leetcode
   <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/siddhartha0?theme=auto&font=baloo&extension=null)
+  https://leetcode.card.workers.dev/siddhartha0?theme=auto&font=baloo&extension=null
 
   </div>
 

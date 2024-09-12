@@ -26,7 +26,6 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
   ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
   </div>
 
-
   <div align="center">
 
   ![github readme streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddhartha0&theme=tokyonight&hide_border=false)<br/>

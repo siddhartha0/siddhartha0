@@ -30,6 +30,7 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
 <div align="center">
   
   ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=siddhartha0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+  
   </div>
 
   <div align="center">
@@ -44,6 +45,7 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
     <div align="center">
       ![github readme activity](https://github-readme-activity-graph.vercel.app/graph?username=siddhartha0&theme=tokyo-night)
     </div>
+    
   </div>
 </details>
 

@@ -46,6 +46,7 @@ I am a passionate MERN Stack Developer with a strong foundation in both frontend
   </div>
 </details>
 
+
 <details>
   <summary><h2> <img align="center" src="https://github.com/siddhartha0/siddhartha0/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
   
